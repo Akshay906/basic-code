@@ -1,0 +1,6 @@
+#include<stdio.h>
+Int main()
+{
+Printf("since iam not too great with numbers other than 0 and 1,
+In case I enter a number that is'nt in the list");
+Return 0;
